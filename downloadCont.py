@@ -10,6 +10,7 @@ from contextlib import suppress
 
 csv.field_size_limit(9999999)
 
+#Curl can be used from python
 class MyThread(threading.Thread):
     __slots__ = ('file', 'currentThread')
     def run(self):
@@ -31,6 +32,7 @@ class MyThread(threading.Thread):
 
 currentThread = 0
 
+#Those are temporary accounts that were used to downlaod files
 accounts = [
 "waketemp1:5fa836f09b4e224ec50af7172968802a41feff83",
 "waketemp2:99a580dc529bc09cc361f42d12117873e6a55498",
