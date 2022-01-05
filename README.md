@@ -6,6 +6,9 @@ Accumulated data can be seen in SQLite database.
 
 All provided tokens for temporary git accounts have been expired by github. This is just an EXAMPLE. No more contributions are planned. Take that as it is. Im not responisble for any misuse of provided code or data.
 
+
+
+
 <<< ------------- LICENSE -------------- >>>
 
 Copyright [2022] Dariusz Bernad
